@@ -3,4 +3,4 @@
 我是一个来自中国的中学生，正在忙我的个人博客。  
 你可以通过邮件来联系我，我的邮箱是812568734@qq.com。     
 
-[![linlinzzo's github stats](https://github-readme-stats.vercel.app/api?username=linlinzzo&show_icons=true&include_all_commits=true)](https://github.com/linlinzzo)
+[![linlinzzo's github stats](https://github-readme-stats.vercel.app/api?username=linlinzzo&show_icons=true&include_all_commits=true&locale=cn&theme=nord)](https://github.com/linlinzzo)
