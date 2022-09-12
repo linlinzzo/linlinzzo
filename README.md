@@ -13,7 +13,7 @@ echo $info;
 ```javascript
 "use strict";
 var info1 = "维护`开往`和`中文博客列表导航`两个项目";
-var info2 = "玩《原神》（现在 31 级，连三个冰霜骗骗花都打不过。菜得要死）";
+var info2 = "玩《原神》（现在 35 级，在同学的帮助下过了璃月主线。菜得要死）";
 var info3 = "稍微拿一些简单的 JavaScript 和 PHP 来玩玩（菜得要死）";
 var info = info1 + "\n" + info2 + "\n" + info3;
 console.log(info);
