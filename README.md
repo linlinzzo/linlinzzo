@@ -1,20 +1,29 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=It+will+never+be+dark;if+there+is+a+light+in+everyone%27s+heart.&color=6495ED&center=true" width="2000" height="150">
+[查看旧版 Profile](https://github.com/linlinzzo/linlinzzo/blob/dbe0616b1f9b6268b07c25cfa4bf8e31315ee869/README.md)
 
-```php
-<?php
-$mail = "812568734@qq.com";
-$info = "我是一个中学生。你可以通过邮件来联系我，我的邮箱是 ".$mail." 。";
-echo $info;
-?>
-```
+您好，我是林林。您可以用这些正经的名字来称呼我：
 
-**我在做什么？**
+- 肖宗林（我的真实姓名）
+- Laurent（法语老师给我取的法语名字）
+- Billy（英语老师给我取的英语名字）
 
-```javascript
-"use strict";
-var info1 = "维护`开往`和`中文博客列表导航`两个项目";
-var info2 = "玩《原神》（现在 35 级，在同学的帮助下过了璃月主线。菜得要死）";
-var info3 = "稍微拿一些简单的 JavaScript 和 PHP 来玩玩（菜得要死）";
-var info = info1 + "\n" + info2 + "\n" + info3;
-console.log(info);
-```
+我玩《原神》，是个原批，喜欢温迪 Venti、提纳里 Tighnari 等角色。喜欢摸鱼。
+
+我目前在 GitHub 忙：
+
+- A co-founder and maintainer of Zh-blogs
+- A PR reviewer of timqian/chinese-independent-blogs
+- A maintainer and person in charge of travellings-link
+
+您可以通过以下方式与我取得联系：
+
+- Blog Site: https://www.xiaozonglin.cn/
+- QQ: 812568734
+- WeChat: xx15759858675
+- Email1: xiaozonglin200701@outlook.com
+- Email2: xzl200701@gmail.com
+
+以下是我其他的个人信息：
+
+- Hobbies: Play Games like Minecraft and Genshin Impact.
+- Slug: It will never be dark if there is a light in everyone's heart.
+- A member of LGBTQIA
