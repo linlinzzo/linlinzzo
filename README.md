@@ -6,13 +6,7 @@
 - Laurent（法语老师给我取的法语名字）
 - Billy（英语老师给我取的英语名字）
 
-我玩《原神》，是个原批，喜欢温迪 Venti、提纳里 Tighnari 等角色。喜欢摸鱼。
-
-我目前在 GitHub 忙：
-
-- A co-founder and maintainer of Zh-blogs
-- A PR reviewer of timqian/chinese-independent-blogs
-- A maintainer and person in charge of travellings-link
+我玩《原神》，是个原批，喜欢温迪 Venti。喜欢摸鱼。
 
 您可以通过以下方式与我取得联系：
 
